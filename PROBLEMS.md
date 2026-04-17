@@ -20,15 +20,5 @@
 | Lv. 1 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)            | 연습문제          |
 | Lv. 1 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)             | 연습문제          |
 | Lv. 1 | [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) | 연습문제          |
-| Lv. 1 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)   | 월간 코드 챌린지 시즌3 |
-| Lv. 1 | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)        | 연습문제          |
-| Lv. 1 | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)    | 연습문제          |
-| Lv. 1 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)            | 월간 코드 챌린지 시즌2 |
-| Lv. 1 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)         | 월간 코드 챌린지 시즌3 |
-| Lv. 1 | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)    | 연습문제          |
-| Lv. 1 | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)       | 연습문제          |
-| Lv. 1 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)            | 연습문제          |
-| Lv. 1 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)        | 연습문제          |
-| Lv. 1 | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)       | 연습문제          |
 
 </details>
