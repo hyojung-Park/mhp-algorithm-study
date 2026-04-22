@@ -6,11 +6,11 @@ import re
 
 [ 사용 가이드 ]
 1. 'PROBLEMS.md' 문제 업데이트 되어있는지 확인!
-2. 🔥중요🔥 (90번째 줄) 'save_path' 변수를 본인의 폴더 경로로 수정
+2. [✅중요] (90번째 줄) 'save_path' 변수를 본인의 폴더 경로로 수정
    예: save_path = "./김진효/week01"
-3. 터미널에서 'python algo_problem_file.py'를 실행합니다.
+3. 터미널에서 'python algo_problem_file.py'를 입력하여 실행
 
-문제 발생 시 말해주세요 🔥
+문제 발생 시 말해주세요
 
 """
 
