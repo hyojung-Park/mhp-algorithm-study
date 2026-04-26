@@ -2,4 +2,6 @@
 # URL: https://school.programmers.co.kr/learn/courses/30/lessons/87389
 
 def solution(n):
-    pass
+    for i in range(1000000):
+        if n % (i + 1) == 1:
+            return i + 1
