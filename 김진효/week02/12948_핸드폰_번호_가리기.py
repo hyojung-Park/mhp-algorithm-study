@@ -1,5 +1,8 @@
-# 문제: 핸드폰 번호 가리기
-# URL: https://school.programmers.co.kr/learn/courses/30/lessons/12948
+ # [성능 요약] 메모리: 9.07 MB 시간: 0.00 ms 
 
-def solution():
-    pass
+def solution(phone_number):
+    answer = ''
+    l = len(phone_number)
+    answer = '*' * (l - 4) + phone_number[l-4:]
+    
+    return answer

@@ -1,5 +1,14 @@
-# 문제: 문자열 내 p와 y의 개수
-# URL: https://school.programmers.co.kr/learn/courses/30/lessons/12916
+ # [성능 요약] 메모리: 9.04 MB 시간: 0.01 ms 
 
-def solution():
-    pass
+def solution(s):
+    answer = True
+    
+    s = s.upper()
+    
+    p = s.count('P')
+    s = s.count('Y') 
+
+    if p != s:
+        answer = False
+    
+    return answer

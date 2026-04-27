@@ -1,5 +1,9 @@
-# 문제: 없는 숫자 더하기
-# URL: https://school.programmers.co.kr/learn/courses/30/lessons/86051
+ # [성능 요약] 메모리: 8.98 MB 시간: 0.01 ms 
 
-def solution():
-    pass
+def solution(numbers):
+    answer = 0
+    s = set(numbers)
+    for i in range(10):
+        if i not in s:
+            answer += i
+    return answer
