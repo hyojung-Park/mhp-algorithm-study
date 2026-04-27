@@ -24,7 +24,7 @@
 </details>
 
 
-<details id="this-week" open>
+<details>
 <summary> 4월 4주차 (26.04.24 ~ 26.05.01) </summary>
 
 | 난이도   |   번호 | 문제                                                                                 | 설명            |
@@ -39,5 +39,24 @@
 | Lv. 1 |   12943 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)          | 연습문제          |
 | Lv. 1 |   12948 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)      | 연습문제          |
 | Lv. 1 |   12903 | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)     | 연습문제          |
+
+</details>
+
+
+<details id="this-week" open>
+<summary> 5월 1주차 (26.05.01 ~ 26.05.08) </summary>
+
+| 난이도   |    번호 | 문제                                                                                 | 설명            |
+|:------|------:|:-----------------------------------------------------------------------------------|:--------------|
+| Lv. 1 | 12922 | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)    | 연습문제          |
+| Lv. 1 | 12935 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)    | 연습문제          |
+| Lv. 1 | 70128 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)              | 월간 코드 챌린지 시즌1 |
+| Lv. 1 | 77884 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)      | 월간 코드 챌린지 시즌2 |
+| Lv. 1 | 12917 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | 연습문제          |
+| Lv. 1 | 82612 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)     | 위클리 챌린지       |
+| Lv. 1 | 12918 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)      | 연습문제          |
+| Lv. 1 | 12950 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)          | 연습문제          |
+| Lv. 1 | 12969 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)        | 연습문제          |
+| Lv. 1 | 12906 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)       | 스택/큐          |
 
 </details>
